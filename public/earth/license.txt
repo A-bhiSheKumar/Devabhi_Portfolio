@@ -1,0 +1,11 @@
+Model Information:
+* title:	earth
+* source:	https://sketchfab.com/3d-models/earth-c2e4294c32ea4d8b850e152fc26aeeb4
+* author:	ABOD.ANIMATION (https://sketchfab.com/body3d2005)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "earth" (https://sketchfab.com/3d-models/earth-c2e4294c32ea4d8b850e152fc26aeeb4) by ABOD.ANIMATION (https://sketchfab.com/body3d2005) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
