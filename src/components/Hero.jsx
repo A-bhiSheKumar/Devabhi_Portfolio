@@ -15,18 +15,19 @@ const Hero = () => {
         {/* ME */}
         
         <div>
-          <h1 className={`${styles.heroHeadText} text-white`}>Hi, I'm 
-            <span className='text-[#915eff]'> Abhishek</span>
+          <h1 className={`${styles.heroHeadText} text-[#f2d193]`}>Hi, I'm 
+            <span className='text-[#f7f6f4]'> Abhishek</span>
           </h1>
           <p className={`${styles.heroSubText} mt-2 text-white-100`}>
-            a <span className='text-[#bb5bd5]'> Full Stack Web Developer</span>, breathing <br className='sm:block hidden'/>
+            a <span className='text-[#f2f1ee]'> Full Stack Web Developer</span>, breathing <br className='sm:block hidden'/>
             life into websites with backend magic and frontend finesse
           </p>
         </div>
       </div>
 
-      {/* This component is all about the 3d MODEL */}
-      <ComputersCanvas />
+      {/* This component is all about the 3Dimage */}
+      <ComputersCanvas  />
+     
 
     {/* Devloping a scrool mouse  */}
     <div className='absolute xs:bottom-10 bottom-32 w-full flex justify-center items-center pt-3'>

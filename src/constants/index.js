@@ -185,9 +185,9 @@ import {
     {
       testimonial:
         "Abhishek possesses remarkable potential for website development, and his skills are truly incredible.",
-      name: "Sunder Pichai",
+      name: " Friend",
       designation: "CEO",
-      company: "Google",
+      company: "x",
       image: "https://media.gettyimages.com/id/1421479579/photo/vox-medias-2022-code-conference-day-1.jpg?s=1024x1024&w=gi&k=20&c=K6Hbh0oH6qJk7XycW16QXVGqjDdjah6oFkUWTQokrH4=",
     },
     {
