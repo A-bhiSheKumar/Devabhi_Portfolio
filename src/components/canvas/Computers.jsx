@@ -4,7 +4,7 @@ import devAbhiImage from '../devAbhi.png'; // Import the image
 
 const ComputersCanvas = () => {
   return (
-    <div className="text-center md:mt-5 lg:mt-5 xl:mt-5 2xl:mt-5 xl:mt-150 lg:ml-0 lg:pt-0 mb-[50px] pt-[405px] mr-[4px]">
+    <div className="text-center md:mt-5 lg:mt-5 xl:mt-5 2xl:mt-5 xl:mt-150 lg:ml-0 lg:pt-0  pt-[405px] mr-[4px] ">
       <img
         src={devAbhiImage}
         alt="Developer Abhi"
