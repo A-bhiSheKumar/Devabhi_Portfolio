@@ -1,6 +1,6 @@
 import React from "react";
-import CanvasLoader from '../Loader';
-import devAbhiImage from '../devAbhi.png'; // Import the image
+// import CanvasLoader from '../Loader';
+import devAbhiImage from '../devAbhi.png'; //Image
 
 const ComputersCanvas = () => {
   return (

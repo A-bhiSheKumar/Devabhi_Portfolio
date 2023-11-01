@@ -276,7 +276,7 @@ import {
         },
       ],
       image: collegiateVoice,
-      source_code_link: "https://github.com/",
+      source_code_link: "https://github.com/A-bhiSheKumar/collegiateVoice",
     },
   ];
   
