@@ -63,7 +63,7 @@ import {
       icon: backend,
     },
     {
-      title: "Exploring FrameWorks",
+      title: "FrameWorks (Next.js__React.js)",
       icon: creator,
     },
   ];
