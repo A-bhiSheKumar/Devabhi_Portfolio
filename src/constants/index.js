@@ -16,6 +16,7 @@ import {
     git,
     figma,
     docker,
+   
 
     udemy,
     self,
@@ -24,7 +25,9 @@ import {
  
     site,
     nike,
-    collegiateVoice
+    collegiateVoice,
+    guide,
+    nextjs
   } from "../assets";
   
   export const navLinks = [
@@ -98,10 +101,10 @@ import {
       name: "MongoDB",
       icon: mongodb,
     },
-    // {
-    //   name: "Three JS",
-    //   icon: threejs,
-    // },
+    {
+      name: "Three JS",
+      icon: nextjs,
+    },
     {
       name: "git",
       icon: git,
@@ -277,6 +280,41 @@ import {
       ],
       image: collegiateVoice,
       source_code_link: "https://github.com/A-bhiSheKumar/collegiateVoice",
+      live_demo_link:"https://github.com/A-bhiSheKumar/collegiateVoice"
+    },
+    {
+      name: "GuidenceWave",
+      description:
+        "GuidanceWave is an open-source platform connecting individuals with seasoned professionals in various fields, enabling you to discover, create, and share expert-led insights for your personal and professional growth.",
+      tags: [
+        {
+          name: "React.js",
+          color: "blue-text-gradient",
+        },
+        {
+          name: "Node.js",
+          color: "green-text-gradient",
+        },
+        {
+          name: "Express.js",
+          color: "pink-text-gradient",
+        },
+        {
+          name: "MongoDb",
+          color: "green-text-gradient",
+        },
+        {
+          name: "Next.js",
+          color: "blue-text-gradient",
+        },
+        {
+          name: "Tailwind CSs",
+          color: "pink-text-gradient",
+        },
+      ],
+      image: guide,
+      source_code_link: "https://github.com/A-bhiSheKumar/guidenceWave",
+      live_demo_link: "https://guidence-wave.vercel.app/",
     },
   ];
   

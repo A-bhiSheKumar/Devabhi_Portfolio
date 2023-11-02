@@ -44,8 +44,8 @@ const About = () => {
         variants={fadeIn("", "", 0.1, 1)}
         className="mt-4 lg:text-[#ffff] text-secondary text-[17px] max-w-3xl leading-[30px]"
       >
-        "I am a passionate MERN Stack Developer proficient in both client and
-        server-side technologies. With expertise in frameworks such as React, Tailwind CSS. I am dedicated to staying
+        "I am a passionate <span className="text-yellow-500 font-bold">MERN </span>Stack Developer proficient in both client and
+        server-side technologies. With expertise in frameworks such as <span className="text-yellow-500 font-bold">React, Tailwind CSS & NextJs</span>. I am dedicated to staying
         updated with the latest technologies in the market. I am a quick learner
         and thrive on exploring new tech trends. My love for coding extends to
         collaborating closely with clients, creating efficient, scalable, and

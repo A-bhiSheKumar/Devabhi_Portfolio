@@ -23,6 +23,7 @@ import reactjs from "./tech/reactjs.png";
 import redux from "./tech/redux.png";
 import tailwind from "./tech/tailwind.png";
 import threejs from "./tech/threejs.svg";
+import nextjs from "./tech/nextJs.png";
 
 import meta from "./company/meta.png";
 import shopify from "./company/shopify.png";
@@ -37,6 +38,7 @@ import allset from "./company/allset.png";
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
 import collegiateVoice from './collegiateVoice.png';
+import guide from './guide.png'
 
 import site from "./site.png";
 import nike from "./nike.png";
@@ -69,6 +71,7 @@ export {
   redux,
   tailwind,
   threejs,
+  nextjs,
 
   meta,
   shopify,
@@ -82,6 +85,7 @@ export {
   carrent,
   jobit,
   collegiateVoice,
+  guide,
 
   site,
   nike,
