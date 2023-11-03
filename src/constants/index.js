@@ -63,7 +63,7 @@ import {
       icon: backend,
     },
     {
-      title: "FrameWorks (Next.js__React.js)",
+      title: "FrameWorks (NextJs__Tailwind)",
       icon: creator,
     },
   ];
